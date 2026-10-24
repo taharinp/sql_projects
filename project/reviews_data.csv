@@ -1,0 +1,61 @@
+ProductID,UserID,Rating,ReviewText
+27,3,InvalidRating,Great product!
+20,4,2,Great product!
+24,2,5,Great product!
+12,1,5,Great product!
+50,7,5,Great product!
+35,8,3,Great product!
+60,7,5,Great product!
+33,5,InvalidRating,
+33,1,1,Great product!
+51,7,4,Great product!
+43,7,1,Great product!
+37,9,1,Great product!
+12,3,5,Great product!
+3,9,4,Great product!
+1,1,InvalidRating,
+33,1,4,Great product!
+40,4,4,Great product!
+10,9,3,Great product!
+43,6,5,Great product!
+44,3,4,Great product!
+29,1,3,Great product!
+13,4,InvalidRating,
+12,9,2,Great product!
+31,3,2,Great product!
+46,9,3,Great product!
+2,7,3,Great product!
+51,4,5,Great product!
+50,3,5,Great product!
+35,10,InvalidRating,
+23,5,2,Great product!
+17,5,4,Great product!
+26,3,2,Great product!
+8,9,4,Great product!
+29,4,4,Great product!
+26,5,5,Great product!
+10,4,InvalidRating,
+26,5,1,Great product!
+34,7,1,Great product!
+51,9,3,Great product!
+41,7,5,Great product!
+7,5,4,Great product!
+4,10,1,Great product!
+58,10,InvalidRating,Great product!
+53,7,4,Great product!
+50,10,1,Great product!
+45,5,1,Great product!
+11,3,1,Great product!
+29,7,5,Great product!
+56,2,2,Great product!
+36,9,InvalidRating,Great product!
+25,10,4,Great product!
+21,10,5,Great product!
+57,1,5,Great product!
+36,6,5,Great product!
+10,7,5,Great product!
+37,8,5,Great product!
+9,10,InvalidRating,Great product!
+24,9,3,Great product!
+35,2,4,Great product!
+49,10,5,Great product!
